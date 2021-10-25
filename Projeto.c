@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <locale.h>
 
+    /*Ideias Projeto : Aplicação que calcula Primeiramente se o usuario esta com o peso ideal,se necessita emagrecer ou engordar e passar uma
+    dieta para o usuario seguir dividida em café da manhã,almoço e janta tendo em parametros o quanto o usuario necessita para chegar em seu
+    objetivo(Para deixar mais complexo,poderia pegar se o usuario é MesoMorfo,endomorfo ou ectomorfo) */
+
 int Decisao1,NivelOcorrencia[];
 char Ocorrencia[];
 
