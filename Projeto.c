@@ -21,7 +21,7 @@ void menu(){
             scanf("%s", &Ocorrencia[i]); 
             break;
     case 2 :
-        for(j=0; j<30; j++){
+        for(int j=0; j<30; j++){
         printf("Segue Todas As Ocorrencia do dia de hoje %s", &Ocorrencia[i]);
         return 0;
             }
